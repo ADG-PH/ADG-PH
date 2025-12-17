@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Laravel, Visual Studio, Android Studio**
 
-- 📫 How to reach me **anthonydave.s.guerrero@gmail.com**
-
 - ⚡ Fun fact **I am funny and Joker**
 
 <h3 align="left">Connect with me:</h3>

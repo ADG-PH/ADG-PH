@@ -13,6 +13,9 @@
 
 I bridge the gap between physical systems and digital interfaces—from diagnosing computer hardware faults to crafting clean, lightweight web and mobile apps.
 
+<!-- This handles the right alignment perfectly without breaking into code blocks -->
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdjczd4NW1rb3R5M2s5Z3EyNjVyeW5yb3lseHJwdThqbjB5YWI2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X4SS63h7k5umY/giphy.gif" width="180" alt="Retro Pixel Man" />
+
 ### 🚀 Core Tech Stack
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 

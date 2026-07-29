@@ -1,3 +1,5 @@
+  <div align="center">
+    
   <h1>Hi ⚡, I'm AD</h1>
   <p><strong>Hardware Support Engineer & Web/Mobile Developer</strong></p>
 

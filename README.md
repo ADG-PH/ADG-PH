@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=1a1f2c&height=180&section=header&text=Anthony%20Dave%20Guerrero&fontSize=35&fontColor=ffffff" width="100%" alt="Header Banner" />
+  <img src="AD.png" width="100%" alt="Header Banner" />
 </div>
 
 <br />

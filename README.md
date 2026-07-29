@@ -6,7 +6,7 @@
 <br />
 
 <!-- This handles the right alignment perfectly without breaking into code blocks -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZqN2pydTh5cHkwOHM5eXo1eG14dTB2ZzVkc3UxeGhtZmJ5dmszciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1dBGoJD4iVO8/giphy.gif" width="180" alt="Retro Pixel Man" />
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXdjczd4NW1rb3R5M2s5Z3EyNjVyeW5yb3lseHJwdThqbjB5YWI2aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/X4SS63h7k5umY/giphy.gif" width="180" alt="Retro Pixel Man" />
 
 # ⚡ I'M ANTHONY DAVE!
 **Hardware Support Engineer & Web/Mobile Developer**

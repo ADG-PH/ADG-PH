@@ -39,7 +39,7 @@ I bridge the gap between physical systems and digital interfaces—from diagnosi
 
 <p align="center">
   <a href="https://anthoxydave.github.io"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=Buffer&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/anthony-dave-guerrero-35899b374"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
